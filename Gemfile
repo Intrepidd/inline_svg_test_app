@@ -7,7 +7,8 @@ gem 'rails', '3.2.22.5'
 
 gem 'sqlite3'
 
-gem 'inline_svg', path: '~/dev/inline_svg/'
+#gem 'inline_svg', path: '~/dev/inline_svg/'
+gem 'inline_svg'
 
 # Gems used only for assets and not required
 # in production environments by default.
